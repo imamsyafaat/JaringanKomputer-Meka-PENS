@@ -79,14 +79,22 @@
         <li class="even"><a href="#">Motherboards</a></li>
         <li class="odd"><a href="#">Desktops</a></li>
         <li class="even"><a href="#">Laptops &amp; Notebooks</a></li>
-        <li class="odd"><a href="#">Processors</a></li>
-        <li class="even"><a href="#">Motherboards</a></li>
-        <li class="odd"><a href="#">Processors</a></li>
-        <li class="even"><a href="#">Motherboards</a></li>
-        <li class="odd"><a href="#">Desktops</a></li>
-        <li class="even"><a href="#">Laptops &amp; Notebooks</a></li>
-        <li class="odd"><a href="#">Processors</a></li>
-        <li class="even"><a href="#">Motherboards</a></li>
+        <li class="odd"><a href="#">Memory</a></li>
+        <li class="even"><a href="#">Arduino</a></li>
+        <li class="odd"><a href="#">Atmel</a></li>
+        <li class="even"><a href="#">ARM</a></li>
+        <li class="odd"><a href="#">Battery</a></li>
+        <li class="even"><a href="#">Raspberry</a></li>
+        <li class="odd"><a href="#">Motor Driver</a></li>
+        <li class="even"><a href="#">Sensor</a></li>
+	<li class="even"><a href="#">LED</a></li>
+	<li class="even"><a href="#">LCD Interface</a></li>
+	<li class="even"><a href="#">Motor DC</a></li>
+	<li class="even"><a href="#">Servo</a></li>
+	<li class="even"><a href="#">Stepper Motor</a></li>
+	<li class="even"><a href="#">Microcontroller</a></li>
+	<li class="even"><a href="#">AVR Electronics</a></li>
+	<li class="even"><a href="#">AMD </a></li>
       </ul>
       <div class="title_box">Special Products</div>
       <div class="border_box">
